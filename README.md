@@ -2,6 +2,7 @@
 
 
 ✅ My skills include:
+
 ● Programming Languages: Swift, Objective-C, Dart, C, C++, JavaScript, Java, Python, SQL
 
 ● Concepts: iOS Development, App Architecture & Design Patterns (MVVM, MVP, MVP+I, VIPER, REDUX, μFeatures)
