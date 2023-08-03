@@ -13,7 +13,11 @@
 ● Spoken Languages: English (professional), Romanian (native)
 
 
+
+
 💻 Currently, I am open for the remote, contracting opportunities only.
+
+
 
 
 🤝 Want to see the benefits of my expertise for your business? Let's connect! 
