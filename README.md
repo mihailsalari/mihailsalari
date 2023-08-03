@@ -1,4 +1,6 @@
-👋 I'm a Senior iOS Engineer & Tech Lead, with 9+ years of experience. I am result-oriented and use my passion, know-how, and skills to design and implement top-tier software solutions. My work focuses on creating large-scale mobile applications that enhance user experience and drive growth for online businesses worldwide.
+👋 I'm a Senior iOS Engineer & Tech Lead, with 9+ years of experience. 
+
+I am result-oriented and use my passion, know-how, and skills to design and implement top-tier software solutions. My work focuses on creating large-scale mobile applications that enhance user experience and drive growth for online businesses worldwide.
 
 
 ✅ My skills include:
