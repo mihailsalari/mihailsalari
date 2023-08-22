@@ -23,5 +23,4 @@ I am result-oriented and use my passion, know-how, and skills to design and impl
 
 
 
-🤝 Want to see the benefits of my expertise for your business? Let's connect! 
-https://www.linkedin.com/in/mihail-salari/
+🤝 Want to see the benefits of my expertise for your business? Let's connect! https://www.linkedin.com/in/mihail-salari/
