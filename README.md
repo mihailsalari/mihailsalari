@@ -11,7 +11,8 @@
 ### 👋 ![](https://komarev.com/ghpvc/?username=mihailsalari&color=268f77&label=Hey!!!+Visitor)
 
 - 🔭 I’m currently open for remote, contracting opportunities only.
-- 🌱 I’m proficient in **Swift, Objective-C, Python, C++, SwiftUI, Combine, CoreVideo, CoreBluetooth, Animations, Async&Await, Core Data, Realm**
+- 🌱 I’m proficient in **Swift, Objective-C**
+- 🌱 Also playing with **SwiftUI, Combine, CoreVideo, CoreBluetooth, Animations, Async&Await, Core Data, Realm**
 - 👯 I’m looking to collaborate with other **iOS, Android, React Native, Flutter, front-end or back-end Devs**
 - 📝 I regularly write articles in [medium](https://medium.com/@mihail_salari)
 - 💬 Ask me about **Swift, UIKit, SwiftUI, App Architecture & Design Patterns**
